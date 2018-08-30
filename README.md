@@ -10,3 +10,4 @@ To compile:
 
 To run:
     java dominion
+    Note: Ensure admin priviledges to create new files
