@@ -1,6 +1,3 @@
-package org.cs362.dominion;
-
-
 //This class is a base abstract class for all of the cards in dominion.
 
 public abstract class card{

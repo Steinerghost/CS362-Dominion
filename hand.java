@@ -1,4 +1,3 @@
-package org.cs362.dominion;
 public class hand{
 	int num_cards;
 	card[] player_hand;

@@ -1,5 +1,3 @@
-package org.cs362.dominion;
-
 public class cutpurse extends card{
 	public cutpurse(){
 		name = "cutpurse";

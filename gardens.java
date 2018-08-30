@@ -1,4 +1,3 @@
-package org.cs362.dominion;
 public class gardens extends card{
 	public gardens(){
 		name = "gardens";

@@ -1,4 +1,3 @@
-package org.cs362.dominion;
 public class village extends card{
 	public village(){
 		name = "village";

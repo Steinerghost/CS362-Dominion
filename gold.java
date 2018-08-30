@@ -1,5 +1,3 @@
-package org.cs362.dominion;
-
 public class gold extends card{
 	public gold(){
 		name = "gold";

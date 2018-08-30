@@ -1,5 +1,3 @@
-package org.cs362.dominion;
-
 public class player{
 	int gold;              //The amount of money the player has
 	int victory_points;    //The number of victory points the player has

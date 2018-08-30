@@ -1,5 +1,3 @@
-package org.cs362.dominion;
-
 public class council_room extends card{
 	public council_room(){
 		name = "council room";

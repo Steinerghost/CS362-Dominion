@@ -1,4 +1,3 @@
-package org.cs362.dominion;
 public class smithy extends card{
 	public smithy(){
 		name = "smithy";

@@ -1,4 +1,3 @@
-package org.cs362.dominion;
 public class great_hall extends card{
 	public great_hall(){
 		name = "great hall";

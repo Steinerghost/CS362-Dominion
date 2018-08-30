@@ -1,4 +1,3 @@
-package org.cs362.dominion;
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 

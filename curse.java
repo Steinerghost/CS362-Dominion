@@ -1,4 +1,3 @@
-package org.cs362.dominion;
 public class curse extends card{
 	public curse(){
 		name = "curse";

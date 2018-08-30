@@ -1,5 +1,3 @@
-package org.cs362.dominion;
-
 public class province extends card{
 	public province(){
 		name = "province";
